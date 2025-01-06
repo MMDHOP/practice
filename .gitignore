@@ -1,0 +1,12 @@
+# Ignore sensitive files
+pass.txt
+
+# Ignore log folder
+logs/
+
+# Ignore IntelliJ IDEA and similar IDEs
+.idea/
+*.iml
+*.class
+*.project
+.vscode/
